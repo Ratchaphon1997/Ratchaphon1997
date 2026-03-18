@@ -39,7 +39,7 @@ I am a **Data Enthusiast** dedicated to turning raw data into actionable insight
 ---
 
 ### 📊 GitHub Stats & Activity
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratchaphon1997&layout=compact&theme=dark)
 
 ---
 
