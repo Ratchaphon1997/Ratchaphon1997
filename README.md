@@ -31,7 +31,7 @@ I am a **Data Enthusiast** dedicated to turning raw data into actionable insight
     - Successfully extracted actionable insights regarding loan distribution across different business sectors.
     - Mastered the use of **Pandas and matplotlib** for complex data manipulation and statistical plotting.
 - [🔗 View Notebook](https://github.com/Ratchaphon1997/Mini_project_PPPloan/blob/main/mini-project.ipynb) | [Dataset](https://www.kaggle.com/datasets/nflovejoy/paycheck-protection-program-loan-data?select=public_150k_plus_230101.csv&sort=votes)
-###   [Project 3: DurianClassificationByKeras]
+####  [Project 3: DurianClassificationByKeras]
 - **Goal:** Create Classificaition model from Durian 4 type by using Keras
 - **Tools:** Python, Scikit-learn , Keras
 - **Key Outcome:** Achieved F1-score 0.80 using model EfficientnetE7
