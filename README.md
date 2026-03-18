@@ -35,7 +35,7 @@ I am a **Data Enthusiast** dedicated to turning raw data into actionable insight
 - **Goal:** Create Classificaition model from Durian 4 type by using Keras
 - **Tools:** Python, Scikit-learn , Keras
 - **Key Outcome:** Achieved F1-score 0.80 using model EfficientnetE7
-- [🔗 View Notebook](https://github.com/Ratchaphon1997/DurianClassificationByKeras/blob/main/Fine_Tuning_EfficientnetB7_GoogleColab.ipynb) | [🔗Dataset]((https://drive.google.com/drive/folders/1mWZ18RnC0A8gISBpstNX71yurxO11wv0?usp=sharing))
+- [🔗 View Notebook](https://github.com/Ratchaphon1997/DurianClassificationByKeras/blob/main/Fine_Tuning_EfficientnetB7_GoogleColab.ipynb) | [🔗Dataset](https://drive.google.com/drive/folders/1mWZ18RnC0A8gISBpstNX71yurxO11wv0?usp=sharing)
 ---
 
 ### 📊 GitHub Stats & Activity
