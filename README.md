@@ -6,9 +6,9 @@ I am a **Data Enthusiast** dedicated to turning raw data into actionable insight
 
 ### 🛠️ Data Stack & Skills
 
-- **Languages:** Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, BigQuery), R
+- **Languages:** Python (Pandas, NumPy, Scikit-learn), SQL (MySQL), R
 - **Visualization:** Tableau, Power BI, Matplotlib, Seaborn
-- **Data Engineering:** ETL Pipelines, Web Scraping (BeautifulSoup/Selenium), Airflow
+- **Data Engineering:** ETL Pipelines, Web Scraping (Selenium), Airflow
 - **Statistics & ML:** Hypothesis Testing, Regression, Classification, Clustering
 - **Tools:** Jupyter Notebook, Excel , Git, Docker
 
