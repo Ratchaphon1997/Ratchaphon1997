@@ -48,7 +48,7 @@ I'm actively seeking opportunities and would love to connect.
 
 - 📧 **Email:** Ratchaphon64@gmail.com 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/ratchaphon-kuntipsombut-4746b4167/
-- 📄 **Resume:** https://drive.google.com/file/d/16BMRyATmozh8YyAh8Wdugkg4IEBsMANl/view?usp=sharing
+- 📄 **Resume:** https://drive.google.com/file/d/17v0hx4IM7OqchE-d2D2bjtrszJ192kUi/view?usp=sharing
 
 ---
 *"In God we trust, all others must bring data." – W. Edwards Deming*
